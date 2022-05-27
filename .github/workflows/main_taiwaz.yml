@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'TAIWAZ'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D527756F1DE54A178C6F4D84C80FC733 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8D219625F5E4F2FA0645A1AD787B6B8 }}
           package: .
